@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AOISYNM">
-    <img src="https://komarev.com/ghpvc/?username=AOISYNM&label=Profile%20views&color=00FFFF&style=flat-square" alt="AOISYNM's profile views" />
+   
   </a>
 </p>
 
