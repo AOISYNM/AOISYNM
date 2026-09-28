@@ -16,7 +16,7 @@ width="100%" />
 - I am currently Learning .
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/AOISYNM">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AOISYNM&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="AOISYNM's GitHub Stats" />
