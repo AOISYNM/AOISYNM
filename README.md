@@ -13,7 +13,7 @@
 width="100%" />
 
 ## 📌 About Me
-- I am currently Learning .
+- I am currently Learning and Implementing What I Study.
 
 
 ##  GitHub Stats & Trophies
